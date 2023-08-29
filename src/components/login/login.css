@@ -1,0 +1,41 @@
+.login-container {
+  width: 40%;
+  background-color: #333;
+  text-align: center;
+  margin: auto;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  height: 60vh;
+  border-radius: 20px;
+}
+
+h1.login-header {
+  color: white;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.input {
+  padding: 12px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #555;
+}
+
+.login-button {
+  padding: 10px;
+  background-color: #b38bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #8c5fb2;
+}

@@ -1,0 +1,26 @@
+[contenteditable] {
+  outline: 0px solid transparent;
+}
+
+.card-container {
+  height: 10%;
+  width: 50%;
+  border-radius: 10px;
+  background-color: rgb(219, 216, 216);
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem 1rem 2rem;
+}
+
+h2.card-header {
+  text-align: center;
+  margin-bottom: 3%;
+}
+
+p {
+  margin-left: 0.7rem;
+  padding: 0.3rem;
+  border: 2px solid black; /*change color*/
+  border-radius: 10px;
+}
